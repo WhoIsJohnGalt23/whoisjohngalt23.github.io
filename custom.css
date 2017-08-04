@@ -2,32 +2,43 @@
 body {
   padding-top: 50px;
   padding-bottom: 20px;
-  font-color:white;
-  Font-family:stencil;
-  background-color:black;
+  font-family:stencil;
+  background-color:#000;
+  color:#000;
+
+  
 }
 
-
 h1 {
-	font-color:#C00202;
+	color:#FFFFFF;
+
+}
+
+p {
+	color:#FFFFFF;
 
 }
 
 h2 {
-	font-color:#C00202;
+	color:#FFFFFF;
 
 }
 
-
 h3 {
-	font-color:#C00202;
-
+	color:#FFFFFF;
 
 }
 
 h4 {
-	font-color:white;
-
-
+	color:#FFFFFF;
 
 }
+
+nav {
+	color:#000;
+
+}
+
+a {
+	color:#9a0a0a;
+
