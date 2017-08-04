@@ -1,0 +1,33 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  font-color:white;
+  Font-family:stencil;
+  background-color:black;
+}
+
+
+h1 {
+	font-color:#C00202;
+
+}
+
+h2 {
+	font-color:#C00202;
+
+}
+
+
+h3 {
+	font-color:#C00202;
+
+
+}
+
+h4 {
+	font-color:white;
+
+
+
+}
